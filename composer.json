@@ -1,0 +1,16 @@
+{
+    "name": "juhco/qrcodephp",
+    "autoload": {
+        "psr-4": {
+            "Juhco\\Qrcodephp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Breviares"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^6.0"
+    }
+}

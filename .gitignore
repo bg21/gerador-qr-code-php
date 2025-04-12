@@ -1,0 +1,36 @@
+# Arquivos e diretórios específicos do composer
+/vendor/
+composer.phar
+composer.lock
+
+# Diretório de arquivos QR Code gerados
+/qrcodes/
+
+# Logo temporários
+/logo.png
+
+# Arquivos de configuração de IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de cache do PHP
+*.cache
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos temporários de upload
+/tmp/
+/temp/ 
